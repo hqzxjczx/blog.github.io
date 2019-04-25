@@ -1,2 +1,1 @@
-# blog.github.io
-personal blog
+# hqzxjczx.github.io
