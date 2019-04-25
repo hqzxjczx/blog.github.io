@@ -7,7 +7,7 @@ title: Hexo
 subtitle:
 description:
 keywords:
-author: John Doe
+author: kerry liu
 language:
 timezone:
 
@@ -79,5 +79,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/hqzxjczx/hqzxjczx.github.io
+  repository: https://github.com/hqzxjczx/blog.github.io
   branch: gh-pages
